@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aisha.m.maniya@gmail.com**
 
-- 📄 Know about my experiences [https://aishamaniya.com/about/](https://aishamaniya.com/about/)
+- 📄 Know about my experiences [https://www.webenzo.tech/about-us.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
