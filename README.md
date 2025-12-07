@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aishamaniya.com/](https://aishamaniya.com/)
 
-- 📝 I regularly write articles on [https://aishamaniya.com/blogs/](https://aishamaniya.com/blogs/)
+- 📝 I regularly write articles on [https://aishamaniya.com/blogs/](https://www.webenzo.tech/blogs.html)
 
 - 💬 Ask me about **WordPress**
 
