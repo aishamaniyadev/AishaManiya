@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aisha Maniya</h1>
-<h3 align="center">🚀 Web Designer & Developer Expert</h3>
+<h3 align="center">🚀Digital Marketing & Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishamaniya21&label=Profile%20views&color=0e75b6&style=flat" alt="aishamaniya21" /> </p>
 
 - 🌱 I’m currently learning **Angular 18**
 
-- 👨‍💻 All of my projects are available at [https://aishamaniya.com/](https://aishamaniya.com/)
+- 👨‍💻 All of my projects are available at [https://www.webenzo.tech/)
 
 - 📝 I regularly write articles on [https://aishamaniya.com/blogs/](https://www.webenzo.tech/blogs.html)
 
