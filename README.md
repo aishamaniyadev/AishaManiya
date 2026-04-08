@@ -25,12 +25,6 @@
   <a href="https://www.linkedin.com/in/aishamaniya/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://x.com/iamaishamaniya" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.pinterest.com/aisha_maniya/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" height="30" width="40"/>
-  </a>
 </p>
 
 ---
