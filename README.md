@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aisha Maniya</h1>
-<h3 align="center">🚀 Digital Marketing & Web Solutions</h3>
+<h3 align="center">🚀World-Class Web Design & Development Services</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aishamaniya21&label=Profile%20views&color=0e75b6&style=flat" alt="aishamaniya21" />
 </p>
 
 - 🌱 I’m currently learning **React JS**
-- 👨‍💻 All of my projects are available at: **https://www.webenzo.tech/**
-- 📝 I regularly write articles on: **https://www.webenzo.tech/blogs.html**
+- 👨‍💻 All of my projects are available at: **https://webenzo.tech/**
+- 📝 I regularly write articles on: **https://webenzo.tech/blogs/**
 - 💬 Ask me about **WordPress, HTML, CSS, JavaScript & Front-End Development**
-- 📫 How to reach me: **aisha.m.maniya@gmail.com**
-- 📄 Know about my experiences: **https://www.webenzo.tech/about-us.html**
+- 📫 How to reach me: **aishamaniyawebdev@gmail.com**
+- 📄 Know about my experiences: **https://webenzo.tech/about/**
 
 ---
 
