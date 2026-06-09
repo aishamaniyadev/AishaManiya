@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at: **https://webenzo.tech/**
 - 📝 I regularly write articles on: **https://webenzo.tech/blogs/**
 - 💬 Ask me about **WordPress, HTML, CSS, JavaScript & Front-End Development**
-- 📫 How to reach me: **aishamaniyawebdev@gmail.com**
+- 📫 How to reach me: **aishamaniya88@gmail.com*
 - 📄 Know about my experiences: **https://webenzo.tech/about/**
 
 ---
